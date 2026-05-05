@@ -1,10 +1,10 @@
 const NOME = "Walacy Alves";
 let tituloProfissional = "Garoto de Programa / Faço de tudo";
-let minhaBio = "Sou um cara esforçado. Agora sou Baterista" +
-    " Antes eu não era nada";
+let minhaBio = "Sou um cara esforçado e dedicado." +
+    " Antes eu não era";
 let anoFormatura = 2028;
 
-let mesFormatura = 12;
+let mesFormatura = 5;
 let diaFormatura = 31;
 let anoIngresso = 2026;
 let mesIngresso = 1;
